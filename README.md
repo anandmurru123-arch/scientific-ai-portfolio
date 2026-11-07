@@ -18,9 +18,8 @@ Across Turing, Mercor, Handshake AI, and AfterQuery, over approximately one year
 
 ## Mercor — Scientific Coding & LLM Training & Reviewer
 
-- Created expert prompts, task specifications, and reference solutions in chemistry, chemical engineering, and materials science.
-- Reviewed model responses for scientific accuracy, reasoning, equations, instruction adherence, and clarity.
-- Contributed as both a writer and reviewer.
+- Completed **6 contracts** across scientific evaluation, labeling review, auditing, and scientific coding.
+- Currently engaged in **3 active contracts** involving writing and review *(as of November 2026)*.
 
 ## Turing — Scientific Coding & LLM Training
 
