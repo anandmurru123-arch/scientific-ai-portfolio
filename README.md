@@ -2,6 +2,14 @@
 
 I contribute to scientific AI training and evaluation in chemistry, chemical engineering, and computational materials science. My work includes research-based prompt writing, reference solutions, scientific coding challenges, and model-response review.
 
+## Overall Contributions
+
+Across Turing, Mercor, Handshake AI, and AfterQuery, over approximately one year:
+
+- Authored approximately **200 scientific prompts and tasks**.
+- Reviewed approximately **300 scientific and coding tasks**.
+- Contributed expertise in chemistry, chemical engineering, and computational materials science.
+
 ## AfterQuery — Scientific Coding Contributions
 
 - Submitted 30+ SciCode prompts in computational materials science.
