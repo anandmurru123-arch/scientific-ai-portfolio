@@ -6,8 +6,8 @@ I contribute to scientific AI training and evaluation in chemistry, chemical eng
 
 Across Turing, Mercor, Handshake AI, and AfterQuery, over approximately one year:
 
-- Authored approximately **200 scientific prompts and tasks**.
-- Reviewed approximately **300 scientific and coding tasks**.
+- Authored approximately **500 scientific prompts and tasks**.
+- Reviewed approximately **400 scientific and coding tasks**.
 - Contributed expertise in chemistry, chemical engineering, and computational materials science.
 
 ## AfterQuery — Scientific Coding Contributions
